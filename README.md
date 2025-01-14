@@ -28,10 +28,22 @@
 - 공동 구매 내역 조회
 - 댓글 및 찜하기
 
+### 주요기능
+
+| 홈 화면 | 회원가입/로그인 | 상품 구매 |
+|:---:|:---:|:---:|
+| ![홈 화면](https://github.com/user-attachments/assets/c7f97bc1-87a5-49cc-b622-76c31937fb34) | ![회원가입/로그인](https://github.com/user-attachments/assets/4475ff41-e427-4ff0-a35b-5817bd2ed4e0) | ![상품 구매](https://github.com/user-attachments/assets/198879e0-1cf2-4486-88fe-5b62bd354cd7) |
+
+| 상품 판매 | 마이페이지 | 찜하기 | 댓글달기 |
+|:---:|:---:|:---:|:---:|
+| ![상품 판매](https://github.com/user-attachments/assets/22b0f63a-db76-4b73-8e2d-8e039146523e) | ![마이페이지](https://github.com/user-attachments/assets/6d98e535-7db6-4251-90d2-099da1a81ecc) | ![찜하기](https://github.com/user-attachments/assets/99f65a8f-115a-4e16-bd4a-e541bc655c6d) | ![댓글달기](https://github.com/user-attachments/assets/81e78d35-a719-46f1-abb6-dffe9f5ac8d9) |
+
+
+
 ---
 
 ## 4️⃣ **개발기간**
-202-12-11 ~ 2024-12-30
+2024-12-11 ~ 2024-12-30
 
 ---
 
@@ -51,5 +63,11 @@
 ---
 
 ## 7️⃣ **개인회고**
-### 🙋‍♀️ 내가 맡은 역할 : DB & API 설계, 찜기능, 마이페이지(내 정보 수정/조회, 구매/판매 내역 확인, 찜한 내역 확인)
+### 🙋‍♀️ 내가 맡은 역할
+#### - DB & API 설계
+#### - 찜기능
+#### - 마이페이지(내 정보 수정/조회, 구매/판매 내역 확인, 찜한 내역 확인)
 ### ⚽ 트러블 슈팅
+#### - 외래키
+#### - 중복조인
+#### - ERD 식별관계/비식별관계
