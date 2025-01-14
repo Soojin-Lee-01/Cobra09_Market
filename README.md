@@ -58,7 +58,7 @@
 
 ## 6️⃣ **ERD**
 
-![API 명세서 및 ERD](https://github.com/user-attachments/assets/8e61af5b-cb7f-4dc0-af18-ca5568f4b4a7)
+![제목을-입력해주세요_-001 (8)](https://github.com/user-attachments/assets/12c79867-a6b0-4125-8479-c48bda618e7e)
 
 ---
 
