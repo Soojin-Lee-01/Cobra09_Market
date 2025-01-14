@@ -78,3 +78,4 @@
 ---
 
 ## **API 명세서 및 ERD**
+![402821839-826d90a9-d834-4a75-8a7a-b175f50ff2c5](https://github.com/user-attachments/assets/8e61af5b-cb7f-4dc0-af18-ca5568f4b4a7)
