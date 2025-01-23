@@ -44,6 +44,11 @@
 | ![상품 판매](https://github.com/user-attachments/assets/22b0f63a-db76-4b73-8e2d-8e039146523e) |
 | product 테이블에 공동 구매 주선 물품을 등록하도록 했습니다. |
 
+| 상품 구매 |
+|:---:|
+| ![상품 구매](https://github.com/user-attachments/assets/ee4a9cd7-9603-435c-b01a-ad63e24a37f4) |
+| 구매한 물품이 order_item 테이블에 추가됩니다. |
+
 | 마이페이지 |
 |:---:|
 | ![마이페이지](https://github.com/user-attachments/assets/6d98e535-7db6-4251-90d2-099da1a81ecc) |
