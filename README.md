@@ -13,7 +13,7 @@
 | 이름   | 역할         | GitHub                   | 
 | ------ | ------------ | ------------------------ |
 | 최원정 | 팀장, 풀스택 | [github.com/CWJ1222](#)  |
-| 이수진 | 백엔드       | [github.com/younghee](#) | 
+| 이수진 | 백엔드       | [github.com/Soojin-Lee-01](#) | 
 | 오성환 | 백엔드       | [github.com/gogigogigogi](#)   |
 | 최수연 | 프론트엔드   | [github.com/suyeon-dev](#)    |
 | 오태원 | 프론트엔드   | [github.com/oh2815](#)     | 
